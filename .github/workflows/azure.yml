@@ -20,7 +20,7 @@ on:
     branches:
       - master
 
-env:
+env:https://ghcr.io/home/runner/work/shibainu/shibainu
   AZURE_WEBAPP_NAME: Hcoinx    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: 'pragma solidity ^0.4.24;
 
